@@ -25,7 +25,9 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,ewrewej.la
 DOMAIN-SUFFIX,softphone.com
 DOMAIN-SUFFIX,r18.dev
-
+DOMAIN,api.github.com
+DOMAIN,release-assets.githubusercontent.com
+DOMAIN,github.com
 
 
 
